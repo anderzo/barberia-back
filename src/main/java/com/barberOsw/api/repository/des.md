@@ -1,2 +1,4 @@
 # CAPA REPOSITORY (repository)
 Es la que habla con la base de datos. Son interfaces que extienden JpaRepository y te dan guardar, buscar, actualizar y borrar sin escribir SQL. Cada entidad tiene su repositorio.
+
+hace las peticiones a la BD usando los models
