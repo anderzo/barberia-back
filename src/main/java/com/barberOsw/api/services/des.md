@@ -4,7 +4,7 @@ al crear una cita, comprueba que el barbero ofrezca el servicio, que esté en su
 
 ## vpara JWT
 
-Para qué: crear y leer tokens firmados
+Para qué: crear y leer tokens firmados, agregamos esto para su funcionamiento:
 
 ``` 
 Pom.xml
